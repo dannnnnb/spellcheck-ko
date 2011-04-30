@@ -1,0 +1,22 @@
+#summary 여러 프로젝트에서 사용되는 Hunspell 버전
+
+ * 리눅스 배포판 
+  * debian [http://packages.debian.org/hunspell-ko 패키지 정보]
+   * 6.0 - hunspell 1.2.11
+   * unstable - hunspell 1.2.14 
+  * fedora [https://admin.fedoraproject.org/pkgdb/acls/name/hunspell-ko 패키지 정보]
+   * fc15 (예정) - hunspell 1.2.15 
+  * ubuntu [https://launchpad.net/ubuntu/+source/hunspell-dict-ko 패키지 정보]
+   * 10.10 - hunspell 1.2.11 
+   * 11.04 - hunspell 1.2.14 
+ * firefox 
+  * 4.0 - hunspell 1.2.8 
+  * hg 소스에서는 hunspell 1.3.2 (아마도 4.0.1이나 4.1에 적용) 
+ * libreoffice 
+  * 3.3.1 이후 - hunspell 1.3.1 
+ * openoffice.org 
+  * 3.3 - hunspell 1.2.8 
+  * hg 소스에서도 hunspell 1.2.9 
+ * mac os 
+  * 10.6.6 현재 - hunspell 1.2.8 
+
