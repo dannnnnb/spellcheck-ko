@@ -1,0 +1,1 @@
+다음으로 이동: https://github.com/changwoo/hunspell-dict-ko
